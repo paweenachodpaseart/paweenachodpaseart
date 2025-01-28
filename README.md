@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100](https://mega.nz/file/9nEk3KQY#L4ee9JMPOeKkymJrHR0kT0m6bi0Ps2C2P5Po9qquQ9k)"/>
-</div>
+<img src="https://media.giphy.com/media/4Vb27dUuYtGJY/giphy.gif" width="400">
 
 ## About Me   
 Hello, my name is Paweena Chotprasert. I am currently a third-year student majoring in Data Science and Data Analytics at Burapha University. I am interested in data analysis, particularly in creating Data Visualization that transforms insights into easy-to-understand visuals. I am also interested in database management in a professional setting.

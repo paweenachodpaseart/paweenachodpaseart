@@ -37,9 +37,8 @@ Additionally, I am eager to learn how to collaborate with teams in a real-world 
 - GitHub: [ลิงก์ GitHub](#)  
 <div id="badges">
  <a href="https://line.me/ti/p/6z896nrGSb">
-    <img src="https://png.pngtree.com/png-clipart/20190515/original/pngtree-line-chat-icon-png-image_3584855.jpg" alt="Line Badge"/>
+    <img src="https://png.pngtree.com/png-clipart/20190515/original/pngtree-line-chat-icon-png-image_3584855.jpg" alt="Line Badge" width="50"/>
 </a>
-  </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>

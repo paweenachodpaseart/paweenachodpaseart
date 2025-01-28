@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/4Vb27dUuYtGJY/giphy.gif" width="400">
+<img src="[https://media.giphy.com/media/4Vb27dUuYtGJY/giphy.gif" width="40](https://www.iimtindia.net/Blog/wp-content/uploads/2021/06/Data-Science.jpg)">
 
 ## About Me   
 Hello, my name is Paweena Chotprasert. I am currently a third-year student majoring in Data Science and Data Analytics at Burapha University. I am interested in data analysis, particularly in creating Data Visualization that transforms insights into easy-to-understand visuals. I am also interested in database management in a professional setting.

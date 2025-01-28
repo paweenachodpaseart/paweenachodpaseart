@@ -22,11 +22,13 @@ Additionally, I am eager to learn how to collaborate with teams in a real-world 
 
 ---
 
-## ทักษะ  
-- **Programming:** Python, R, SQL  
-- **Big Data Tools:** MongoDB, Hadoop  
-- **Visualization:** Tableau, Power BI  
-
+## Skills 
+- **Data Analysis** 
+- **Big Data** 
+- **Data Visualization**
+- **Data Warehousing** 
+- **Programming** 
+- **Database Management** 
 ---
 
 ## ติดต่อฉัน  

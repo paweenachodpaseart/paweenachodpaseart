@@ -10,13 +10,15 @@ Additionally, I am eager to learn how to collaborate with teams in a real-world 
 ---
 
 ## Featured Projects  
-- **วิเคราะห์ราคาทุเรียนด้วย IoT**  
-  - "ระบบที่ใช้ข้อมูลจาก IoT ในการคาดการณ์ราคาและแนวโน้มของผลผลิต"  
-  - [ดูโปรเจกต์](#)  
+- **Big Data | Database Systems for E-commerce Business**  
+  - "Design a Big Data database for online sales to enhance the customer experience."
+  - Tool : MongDB
+  - [View Project](#)  
 
-- **ระบบแนะนำสินค้าด้วย Big Data (MongoDB)**  
-  - "ระบบวิเคราะห์พฤติกรรมลูกค้า เพื่อเพิ่มโอกาสทางการขาย"  
-  - [ดูโปรเจกต์](#)
+- **Data Visualization | Pollution Complaint Analysis Dashboard**  
+  - "Create a dashboard displaying data related to pollution issues in Thailand."
+  - Tool : PowerBI
+  - [View Project](#)
 
 ---
 

@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.iimtindia.net/Blog/wp-content/uploads/2021/06/Data-Science.jpg" width="100"/>
+  <img src="https://www.iimtindia.net/Blog/wp-content/uploads/2021/06/Data-Science.jpg" width="1000"/>
 </div>
 
 ## About Me   

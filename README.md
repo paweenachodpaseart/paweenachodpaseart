@@ -1,14 +1,11 @@
-# สวัสดี! 👋 ฉัน [ชื่อคุณ]  
-### นักศึกษาสาขา Data Science & Analytics | ผู้หลงใหลใน Big Data & IoT  
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"](https://mega.nz/file/9nEk3KQY#L4ee9JMPOeKkymJrHR0kT0m6bi0Ps2C2P5Po9qquQ9k)"/>
+</div>
 
-> "ฉันเชื่อในพลังของข้อมูลที่จะเปลี่ยนแปลงโลก และสร้างประสบการณ์ใหม่ให้ธุรกิจ"
+## About Me   
+Hello, my name is Paweena Chotprasert. I am currently a third-year student majoring in Data Science and Data Analytics at Burapha University. I am interested in data analysis, particularly in creating Data Visualization that transforms insights into easy-to-understand visuals. I am also interested in database management in a professional setting.
 
-[ดู Portfolio](#) | [ดูโปรเจกต์](#) | [ติดต่อฉัน](#)
-
----
-
-## เกี่ยวกับฉัน  
-ฉัน [ชื่อคุณ] นักศึกษาชั้นปีที่ 3 คณะวิทยาศาสตร์ มหาวิทยาลัยบูรพา กำลังพัฒนาทักษะด้านการวิเคราะห์และจัดการข้อมูลขนาดใหญ่ผ่านโปรเจกต์จริง เช่น การวิเคราะห์ราคาทุเรียนด้วย IoT และการพัฒนาระบบแนะนำสินค้า
+Additionally, I am eager to learn how to collaborate with teams in a real-world work environment, focusing on effective communication and coordination within an organization.
 
 ---
 

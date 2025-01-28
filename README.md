@@ -1,4 +1,6 @@
-![Data Science Certification](https://giphy.com/explore/data-science-certification?utm_source=chatgpt.com)
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmllZ2puZ3ZncHgxdms4cWwycnVzaGhzeDAzaWlucXVvdjljbHBoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TVKBTdmND8auuopiwd/giphy.gif)" width="100"/>
+</div>
 
 ## About Me   
 Hello, my name is Paweena Chotprasert. I am currently a third-year student majoring in Data Science and Data Analytics at Burapha University. I am interested in data analysis, particularly in creating Data Visualization that transforms insights into easy-to-understand visuals. I am also interested in database management in a professional setting.

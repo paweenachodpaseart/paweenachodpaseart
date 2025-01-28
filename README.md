@@ -9,7 +9,7 @@ Additionally, I am eager to learn how to collaborate with teams in a real-world 
 
 ---
 
-## โปรเจกต์เด่น  
+## Featured Projects  
 - **วิเคราะห์ราคาทุเรียนด้วย IoT**  
   - "ระบบที่ใช้ข้อมูลจาก IoT ในการคาดการณ์ราคาและแนวโน้มของผลผลิต"  
   - [ดูโปรเจกต์](#)  

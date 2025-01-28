@@ -36,8 +36,8 @@ Additionally, I am eager to learn how to collaborate with teams in a real-world 
 - LinkedIn: [ลิงก์โปรไฟล์ LinkedIn](#)  
 - GitHub: [ลิงก์ GitHub](#)  
 <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="[your-linkedin-URL](https://line.me/ti/p/6z896nrGSb)">
+    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge](https://png.pngtree.com/png-clipart/20190515/original/pngtree-line-chat-icon-png-image_3584855.jpg)"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>

@@ -34,7 +34,7 @@ Additionally, I am eager to learn how to collaborate with teams in a real-world 
 ## Contact Me  
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://thumbs.dreamstime.com/b/icono-del-logotipo-de-correo-electr%C3%B3nico-gmail-hermoso-dise%C3%B1ado-meticulosamente-225149202.jpg" alt="Gmail" style="width: 40px; height: 40px;">
-  <span style="font-size: 16px; line-height: 40px;">Email: paweenamind07@gmail.com</span>
+  <span style="font-size: 16px; line-height: 40px;"> : paweenamind07@gmail.com</span>
 </div>
 
 <div id="header">

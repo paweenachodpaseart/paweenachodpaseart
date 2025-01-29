@@ -32,7 +32,8 @@ Additionally, I am eager to learn how to collaborate with teams in a real-world 
 ---
 
 ## ติดต่อฉัน  
-- Email: [your-email@example.com](mailto:your-email@example.com)  
+-   <a href="your-youtube-URL">
+    <img src="https://thumbs.dreamstime.com/b/icono-del-logotipo-de-correo-electr%C3%B3nico-gmail-hermoso-dise%C3%B1ado-meticulosamente-225149202.jpg" width="50"/>: [your-email@example.com](mailto:your-email@example.com)  
 - LinkedIn: [ลิงก์โปรไฟล์ LinkedIn](#)  
 - GitHub: [ลิงก์ GitHub](#)  
 <div id="badges">

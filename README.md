@@ -37,5 +37,8 @@ Hello, my name is Paweena Chotprasert. I am currently a third-year student major
 - 📞 **Phone:** 081-750-1940  
 - 🏠 **Address:** 4/2 Soi 16, Long Had Bang Saen Road, Saen Suk Subdistrict, Mueang Chonburi District, Chonburi Province 20131, Thailand
 
-## Download my Resume
-[Click here to download PDF](link_to_resume.pdf)
+<div style="text-align: center;">
+  <a href="link_to_resume.pdf">
+    <img src="https://img.icons8.com/ios/50/000000/resume.png" alt="Resume Icon" width="50"/>
+  </a>
+</div>

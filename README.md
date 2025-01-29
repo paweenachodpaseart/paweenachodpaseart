@@ -38,7 +38,7 @@ Hello, my name is Paweena Chotprasert. I am currently a third-year student major
   <img src="https://img.icons8.com/color/50/000000/power-bi.png" alt="Power BI" width="50"/>
   <img src="https://img.icons8.com/color/50/000000/r.png" alt="R" width="50"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTJjNVfSeEoY7u-atO2zTEQdG-S3yWPnbWZCWsDrcEL4df2bfSAmMfYvve-7QqaRMmLho&usqp=CAU" alt="phpMyAdmin" width="70"/>
-  <img src="https://github.com/user-attachments/assets/73da990b-4b53-4bc4-b350-484718c19a35" alt="Minitab" width="41"/>
+  <img src="https://github.com/user-attachments/assets/73da990b-4b53-4bc4-b350-484718c19a35" alt="Minitab" width="42"/>
   <img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="MongoDB" width="50"/>
   <img src="https://cdn2.iconfinder.com/data/icons/metro-ui-icon-set/512/Excel_15.png" alt="Excel" width="41"/>
   <img src="https://img.utdstc.com/icon/22a/3bf/22a3bf7ca77afad2a340cd4331c196675522f0b8e5b73baca836d754ce495faf:200" width="41"/>

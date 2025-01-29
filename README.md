@@ -4,8 +4,9 @@
 
 ## About Me   
 <div id="header" align="center">
- <img src="https://iconscout.com/lottie-animation/freelancer-woman-working-on-laptop-6241393" width="200"/>
+ <img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/freelancer-woman-working-on-laptop-animation-download-in-lottie-json-gif-static-svg-file-formats--employee-business-pack-people-animations-5158199.mp4" width="200"/>
 </div>
+
 Hello, my name is Paweena Chotprasert. I am currently a third-year student majoring in Data Science and Data Analytics at Burapha University. I am interested in data analysis, particularly in creating Data Visualization that transforms insights into easy-to-understand visuals. I am also interested in database management in a professional setting.
 
 🎯 Additionally, I am eager to learn how to collaborate with teams in a real-world work environment, focusing on effective communication and coordination within an organization.

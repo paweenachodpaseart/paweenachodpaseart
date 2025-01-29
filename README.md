@@ -40,7 +40,7 @@ Hello, my name is Paweena Chotprasert. I am currently a third-year student major
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTJjNVfSeEoY7u-atO2zTEQdG-S3yWPnbWZCWsDrcEL4df2bfSAmMfYvve-7QqaRMmLho&usqp=CAU" alt="phpMyAdmin" width="70"/>
   <img src="https://github.com/user-attachments/assets/73da990b-4b53-4bc4-b350-484718c19a35" alt="Minitab" width="41"/>
   <img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="MongoDB" width="50"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrvvrItbJxBuU5So9IYc7eWGwXVOHjnNnQ7AS7DDWihlzZf1Ebc9Zjl4ZcUR89_-ldPAU&usqp=CAU" alt="Excel" width="50"/>
+  <img src="https://cdn2.iconfinder.com/data/icons/metro-ui-icon-set/512/Excel_15.png" alt="Excel" width="41"/>
   <img src="https://img.icons8.com/color/50/000000/db-designer.png" alt="DBDesigner" width="50"/>
 </div>
 https://e7.pngegg.com/pngimages/902/199/png-clipart-logo-phpmyadmin-mysql-font-mysql-logo-angle-text-thumbnail.png

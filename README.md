@@ -32,7 +32,7 @@ Additionally, I am eager to learn how to collaborate with teams in a real-world 
 ---
 
 ## Contact Me  
-- Email: [paweenamind07@gmail.com](mailto:your-email@example.com)  
+- Email: [paweenamind07@gmail.com](mailto:paweenamind07@gmail.com)  
 - LinkedIn: [Your LinkedIn Profile](#)  
 - GitHub: [Your GitHub Profile](#) 
 <div id="badges">

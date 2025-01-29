@@ -40,7 +40,7 @@ Additionally, I am eager to learn how to collaborate with teams in a real-world 
     <img src="https://png.pngtree.com/png-clipart/20190515/original/pngtree-line-chat-icon-png-image_3584855.jpg" alt="Line Badge" width="50"/>
 </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://thumbs.dreamstime.com/b/icono-del-logotipo-de-correo-electr%C3%B3nico-gmail-hermoso-dise%C3%B1ado-meticulosamente-225149202.jpg" width="50"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>

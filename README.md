@@ -33,6 +33,6 @@ Additionally, I am eager to learn how to collaborate with teams in a real-world 
 
 ## Contact Me   
 - 📩 **Email:** [paweenamind07@gmail.com](mailto:paweenamind07@gmail.com)  
-- 💬 **LINE:** [Click to chat](https://line.me/ti/p/~your-line-id](https://line.me/ti/p/6z896nrGSb)  
+- 💬 **LINE:** [Click to chat](https://line.me/ti/p/6z896nrGSb)  
 - 📞 **Phone:** 081-750-1940  
 - 🏠 **Address:** 4/2 Soi 16, Long Had Bang Saen Road, Saen Suk Subdistrict, Mueang Chonburi District, Chonburi Province 20131, Thailand

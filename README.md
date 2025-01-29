@@ -32,14 +32,7 @@ Additionally, I am eager to learn how to collaborate with teams in a real-world 
 ---
 
 ## Contact Me   
-<p align="left">
-  <a href="mailto:paweenamind07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+- 📩 **Email:** [paweenamind07@gmail.com](mailto:paweenamind07@gmail.com)  
+- 💬 **LINE:** [คลิกเพื่อแชท]([https://line.me/ti/p/~your-line-id](https://line.me/ti/p/6z896nrGSb))  
+- 📞 **Phone:** 081-750-1940  
+- 🏠 **Address:** 4/2 Soi 16, Long Had Bang Saen Road, Saen Suk Subdistrict, Mueang Chonburi District, Chonburi Province 20131, Thailand

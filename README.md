@@ -31,6 +31,7 @@ Hello, my name is Paweena Chotprasert. I am currently a third-year student major
 - **Database Management** 
 ---
 ## Tools
+<div style="text-align: center;">
   <img src="https://img.icons8.com/color/50/000000/python.png" alt="Python" width="50"/>
   <img src="https://img.icons8.com/color/50/000000/power-bi.png" alt="Power BI" width="50"/>
   <img src="https://img.icons8.com/color/50/000000/r.png" alt="R" width="50"/>
@@ -39,7 +40,7 @@ Hello, my name is Paweena Chotprasert. I am currently a third-year student major
   <img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="MongoDB" width="50"/>
   <img src="https://img.icons8.com/color/50/000000/microsoft-excel.png" alt="Excel" width="50"/>
   <img src="https://img.icons8.com/color/50/000000/db-designer.png" alt="DBDesigner" width="50"/>
-
+</div>
 ## Contact Me   
 - 📩 **Email:** [paweenamind07@gmail.com](mailto:paweenamind07@gmail.com)  
 - 💬 **LINE:** [Click to chat](https://line.me/ti/p/6z896nrGSb)  

@@ -31,32 +31,15 @@ Additionally, I am eager to learn how to collaborate with teams in a real-world 
 - **Database Management** 
 ---
 
-## Contact Me  
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://thumbs.dreamstime.com/b/icono-del-logotipo-de-correo-electr%C3%B3nico-gmail-hermoso-dise%C3%B1ado-meticulosamente-225149202.jpg" alt="Gmail" style="width: 40px; height: 40px;">
-  <span style="font-size: 16px; line-height: 40px;"> : paweenamind07@gmail.com</span>
-</div>
-
-<div id="header">
-  <a href="your-youtube-URL">
-    <img src="https://thumbs.dreamstime.com/b/icono-del-logotipo-de-correo-electr%C3%B3nico-gmail-hermoso-dise%C3%B1ado-meticulosamente-225149202.jpg" width="50"/>
-</a>
-Email: paweenamind07@gmail.com 
-- LinkedIn: [Your LinkedIn Profile](#)  
-- GitHub: [Your GitHub Profile](#) 
-<div id="badges">
-</a>
-  <a href="your-youtube-URL">
-    <img src="https://thumbs.dreamstime.com/b/icono-del-logotipo-de-correo-electr%C3%B3nico-gmail-hermoso-dise%C3%B1ado-meticulosamente-225149202.jpg" width="50"/>
-</a>
- <a href="https://line.me/ti/p/6z896nrGSb">
-    <img src="https://png.pngtree.com/png-clipart/20190515/original/pngtree-line-chat-icon-png-image_3584855.jpg" alt="Line Badge" width="50"/>
-</a>
-  <a href="your-youtube-URL">
-    <img src="https://thumbs.dreamstime.com/b/icono-del-logotipo-de-correo-electr%C3%B3nico-gmail-hermoso-dise%C3%B1ado-meticulosamente-225149202.jpg" width="50"/>
+## Contact Me   
+<p align="left">
+  <a href="mailto:paweenamind07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</div>
-
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>

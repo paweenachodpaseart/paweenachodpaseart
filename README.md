@@ -31,12 +31,15 @@ Additionally, I am eager to learn how to collaborate with teams in a real-world 
 - **Database Management** 
 ---
 
-## ติดต่อฉัน  
-<a href="your-youtube-URL">
-    <img src="https://thumbs.dreamstime.com/b/icono-del-logotipo-de-correo-electr%C3%B3nico-gmail-hermoso-dise%C3%B1ado-meticulosamente-225149202.jpg" width="50"/>: paweenamind07@gmail.com
-- LinkedIn: [ลิงก์โปรไฟล์ LinkedIn](#)  
-- GitHub: [ลิงก์ GitHub](#)  
+## Contact Me  
+- Email: [paweenamind07@gmail.com](mailto:your-email@example.com)  
+- LinkedIn: [Your LinkedIn Profile](#)  
+- GitHub: [Your GitHub Profile](#) 
 <div id="badges">
+</a>
+  <a href="your-youtube-URL">
+    <img src="https://thumbs.dreamstime.com/b/icono-del-logotipo-de-correo-electr%C3%B3nico-gmail-hermoso-dise%C3%B1ado-meticulosamente-225149202.jpg" width="50"/>
+</a>
  <a href="https://line.me/ti/p/6z896nrGSb">
     <img src="https://png.pngtree.com/png-clipart/20190515/original/pngtree-line-chat-icon-png-image_3584855.jpg" alt="Line Badge" width="50"/>
 </a>

@@ -32,14 +32,15 @@ Hello, my name is Paweena Chotprasert. I am currently a third-year student major
 ---
 ## Tools
 <div style="text-align: center;">
-  <img src="https://img.icons8.com/ios/50/000000/python.png" alt="Python" width="50"/>
-  <img src="https://img.icons8.com/ios/50/000000/power-bi.png" alt="Power BI" width="50"/>
-  <img src="https://img.icons8.com/ios/50/000000/r.png" alt="R" width="50"/>
-  <img src="https://img.icons8.com/ios/50/000000/phpmyadmin.png" alt="phpMyAdmin" width="50"/>
-  <img src="https://img.icons8.com/ios/50/000000/minitab.png" alt="Minitab" width="50"/>
-  <img src="https://img.icons8.com/ios/50/000000/mongodb.png" alt="MongoDB" width="50"/>
-  <img src="https://img.icons8.com/ios/50/000000/microsoft-excel.png" alt="Excel" width="50"/>
-  <img src="https://img.icons8.com/ios/50/000000/db-designer.png" alt="DBDesigner" width="50"/>
+  <h2>Tools</h2>
+  <img src="https://img.icons8.com/color/50/000000/python.png" alt="Python" width="50"/>
+  <img src="https://img.icons8.com/color/50/000000/power-bi.png" alt="Power BI" width="50"/>
+  <img src="https://img.icons8.com/color/50/000000/r.png" alt="R" width="50"/>
+  <img src="https://img.icons8.com/color/50/000000/phpmyadmin.png" alt="phpMyAdmin" width="50"/>
+  <img src="https://img.icons8.com/color/50/000000/minitab.png" alt="Minitab" width="50"/>
+  <img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="MongoDB" width="50"/>
+  <img src="https://img.icons8.com/color/50/000000/microsoft-excel.png" alt="Excel" width="50"/>
+  <img src="https://img.icons8.com/color/50/000000/db-designer.png" alt="DBDesigner" width="50"/>
 </div>
 
 ## Contact Me   

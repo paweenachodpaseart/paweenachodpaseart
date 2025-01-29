@@ -22,7 +22,7 @@ Hello, my name is Paweena Chotprasert. I am currently a third-year student major
 
 ---
 
-## Skills 
+## 💡 Skills 
 - **Data Analysis** 
 - **Big Data** 
 - **Data Visualization**

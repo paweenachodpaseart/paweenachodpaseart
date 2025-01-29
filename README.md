@@ -43,7 +43,7 @@ Hello, my name is Paweena Chotprasert. I am currently a third-year student major
   <img src="https://cdn2.iconfinder.com/data/icons/metro-ui-icon-set/512/Excel_15.png" alt="Excel" width="41"/>
   <img src="https://img.utdstc.com/icon/22a/3bf/22a3bf7ca77afad2a340cd4331c196675522f0b8e5b73baca836d754ce495faf:200" width="41"/>
 </div>
-https://e7.pngegg.com/pngimages/902/199/png-clipart-logo-phpmyadmin-mysql-font-mysql-logo-angle-text-thumbnail.png
+
 ---
 
 ## Contact Me   

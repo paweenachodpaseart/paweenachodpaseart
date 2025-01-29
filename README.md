@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://www.iimtindia.net/Blog/wp-content/uploads/2021/06/Data-Science.jpg" width="500"/>
-</div>
-
 ## About Me   
 <div id="header" align="center">
  <img src="https://media0.giphy.com/media/3o72EXEfAoFRXnzDvG/giphy.webp?cid=ecf05e47nnk6bf5d9t07zgm4zl8b2y8vc2e2bm5wqdl6cyvq&ep=v1_gifs_related&rid=giphy.webp&ct=g" width="200"/>

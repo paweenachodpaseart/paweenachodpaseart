@@ -18,7 +18,7 @@ Hello, my name is Paweena Chotpaseart. I am currently a third-year student major
 - **Data Visualization | Pollution Complaint Analysis Dashboard**  
   - "Create a dashboard displaying data related to pollution issues in Thailand."
   - Tool : PowerBI
-  - [View Project](#)
+  - [View Project](https://github.com/paweenachodpaseart/Data-Visualization2)
 
 ---
 

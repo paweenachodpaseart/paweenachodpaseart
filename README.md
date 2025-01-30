@@ -13,7 +13,7 @@ Hello, my name is Paweena Chotpaseart. I am currently a third-year student major
 - **Big Data | Database Systems for E-commerce Business**  
   - "Design a Big Data database for online sales to enhance the customer experience."
   - Tool : MongDB
-  - [View Project](#)  
+  - [View Project](https://github.com/paweenachodpaseart/Big-Data)  
 
 - **Data Visualization | Pollution Complaint Analysis Dashboard**  
   - "Create a dashboard displaying data related to pollution issues in Thailand."

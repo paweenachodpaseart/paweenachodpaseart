@@ -42,7 +42,7 @@ Hello, my name is Paweena Chotpaseart. I am currently a third-year student major
   <img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="MongoDB" width="50"/>
   <img src="https://cdn2.iconfinder.com/data/icons/metro-ui-icon-set/512/Excel_15.png" alt="Excel" width="42"/>
   <img src="https://img.utdstc.com/icon/22a/3bf/22a3bf7ca77afad2a340cd4331c196675522f0b8e5b73baca836d754ce495faf:200" width="42"/>
-  <img src="https://img.utdstc.com/icon/22a/3bf/22a3bf7ca77afad2a340cd4331c196675522f0b8e5b73baca836d754ce495faf:200" width="42"/>
+  <img src="https://funnel.io/hubfs/Looker%20Studio%20png%20logo.png" width="42"/>
 </div>
 
 ---

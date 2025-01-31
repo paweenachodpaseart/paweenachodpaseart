@@ -36,7 +36,7 @@ Hello, my name is Paweena Chotpaseart. I am currently a third-year student major
   <h2>Tools</h2>
   <img src="https://img.icons8.com/color/50/000000/python.png" alt="Python" width="50"/>
   <img src="https://img.icons8.com/color/50/000000/power-bi.png" alt="Power BI" width="50"/>
-  <img src="https://images.sftcdn.net/images/t_app-icon-m/p/181ea3c0-0bd9-45f5-93f8-3bae410b3f3f/2027126079/rstudio-conf-2020-logo" alt="R" width="50"/>
+  <img src="https://images.sftcdn.net/images/t_app-icon-m/p/181ea3c0-0bd9-45f5-93f8-3bae410b3f3f/2027126079/rstudio-conf-2020-logo" alt="R" width="42"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTJjNVfSeEoY7u-atO2zTEQdG-S3yWPnbWZCWsDrcEL4df2bfSAmMfYvve-7QqaRMmLho&usqp=CAU" alt="phpMyAdmin" width="70"/>
   <img src="https://github.com/user-attachments/assets/73da990b-4b53-4bc4-b350-484718c19a35" alt="Minitab" width="42"/>
   <img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="MongoDB" width="50"/>

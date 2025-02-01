@@ -6,6 +6,7 @@
 Hello, my name is Paweena Chotpaseart. I am currently a third-year student majoring in Data Science and Data Analytics at Burapha University. I am interested in data analysis, particularly in creating Data Visualization that transforms insights into easy-to-understand visuals. I am also interested in database management in a professional setting.
 
 🎯 I am eager to gain real-world experience working in teams, focusing on effective communication and coordination, to prepare for a successful career in Data Science.
+
 ---
 
 ## Featured Projects  

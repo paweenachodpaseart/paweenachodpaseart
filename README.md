@@ -58,5 +58,5 @@ Hello, my name is Paweena Chotpaseart. I am currently a third-year student major
     <img src="https://img.icons8.com/ios-filled/50/000000/resume.png" alt="Resume Icon" width="50"/>
   </a>
   <br>
-  <a href="https://drive.google.com/file/d/1KXl8OSqNXzdfMiUQI8K6P3M_lJNynk_8/view?usp=drive_link">Download Resume</a>
+  <a href="https://www.canva.com/design/DAGa9rmyf2o/bGFnxKOJKQa6a2Gkwg85fg/edit?utm_content=DAGa9rmyf2o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Download Resume</a>
 </p>

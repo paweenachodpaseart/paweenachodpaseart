@@ -15,10 +15,10 @@ Hello, my name is Paweena Chotpaseart. I am currently a third-year student major
   - Tool : MongDB
   - [View Project](https://github.com/paweenachodpaseart/Big-Data)  
 
-- **Data Visualization | Pollution Complaint Analysis Dashboard**  
-  - "Create a dashboard displaying data related to pollution issues in Thailand."
+- **Data Visualization | Dashboard for Research**  
+  - "Create a dashboard for Research on Factors Influencing the Business of Whale Watching Tourism for Conservation in Bangsaen, Chonburi Province"
   - Tool : PowerBI
-  - [View Project](https://github.com/paweenachodpaseart/Data-Visualization2)
+  - [View Project](https://github.com/paweenachodpaseart/Data-Visualization1)
 
 - **Forecasting | Pollution Complaint Analysis Dashboard**  
   - "Forecasting the Number of Passengers Boarding United Airlines Flights."

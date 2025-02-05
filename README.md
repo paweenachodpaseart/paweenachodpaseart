@@ -20,6 +20,11 @@ Hello, my name is Paweena Chotpaseart. I am currently a third-year student major
   - Tool : PowerBI
   - [View Project](https://github.com/paweenachodpaseart/Data-Visualization2)
 
+- **Forecasting | Pollution Complaint Analysis Dashboard**  
+  - "Forecasting the Number of Passengers Boarding United Airlines Flights."
+  - Tool : Minitab
+  - [View Project](https://github.com/paweenachodpaseart/Forecasting)
+
 ---
 
 ## 💡 Skills 

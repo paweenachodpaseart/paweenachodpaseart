@@ -16,8 +16,9 @@ Hello, my name is Paweena Chotpaseart. I am currently a third-year student major
   - [View Project](https://github.com/paweenachodpaseart/Big-Data)  
 
 - **Data Visualization | Dashboard for Research**  
-  - "Create a dashboard for Research on Factors Influencing the Business of Whale Watching Tourism for Conservation in Bangsaen, Chonburi Province"
-  - Tool : PowerBI
+  - "Use linear regression to build a model for predicting house prices in New York City.
+The model has an error value of 0.272"
+  - Tool : R
   - [View Project](https://github.com/paweenachodpaseart/Data-Visualization1)
 
 - **Forecasting | Pollution Complaint Analysis Dashboard**  

@@ -10,21 +10,21 @@ Hello, my name is Paweena Chotpaseart. I am currently a third-year student major
 ---
 
 ## Featured Projects  
-- **Big Data | Database Systems for E-commerce Business**  
-  - "Design a Big Data database for online sales to enhance the customer experience."
-  - Tool : MongDB
-  - [View Project](https://github.com/paweenachodpaseart/Big-Data)  
-
-- **Data Visualization | Dashboard for Research**  
+- **Regression Analysis | Analysis of Factors Affecting Housing Prices**  
   - "Use linear regression to build a model for predicting house prices in New York City.
 The model has an error value of 0.272"
   - Tool : R
-  - [View Project](https://github.com/paweenachodpaseart/Data-Visualization1)
+  - [View Project](https://github.com/paweenachodpaseart/Regression-Analysis)
 
 - **Forecasting | Pollution Complaint Analysis Dashboard**  
   - "Forecasting the Number of Passengers Boarding United Airlines Flights."
   - Tool : Minitab
   - [View Project](https://github.com/paweenachodpaseart/Forecasting)
+ 
+- **Big Data | Database Systems for E-commerce Business**  
+  - "Design a Big Data database for online sales to enhance the customer experience."
+  - Tool : MongDB
+  - [View Project](https://github.com/paweenachodpaseart/Big-Data)  
 
 ---
 

@@ -16,7 +16,7 @@ The model has an error value of 0.272"
   - Tool : R
   - [View Project](https://github.com/paweenachodpaseart/Regression-Analysis)
 
-- **Forecasting | Pollution Complaint Analysis Dashboard**  
+- **Forecasting | Forecasting Passenger Demand for United Airlines**  
   - "Forecasting the Number of Passengers Boarding United Airlines Flights."
   - Tool : Minitab
   - [View Project](https://github.com/paweenachodpaseart/Forecasting)

@@ -49,6 +49,7 @@ The model has an error value of 0.272"
   <img src="https://cdn2.iconfinder.com/data/icons/metro-ui-icon-set/512/Excel_15.png" alt="Excel" width="42"/>
   <img src="https://img.utdstc.com/icon/22a/3bf/22a3bf7ca77afad2a340cd4331c196675522f0b8e5b73baca836d754ce495faf:200" width="42"/>
   <img src="https://funnel.io/hubfs/Looker%20Studio%20png%20logo.png" width="42"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Ftableau-logo%2F&psig=AOvVaw0ellBG1gcW_sR_fZSn7Ufq&ust=1741166908616000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDxoqyO8IsDFQAAAAAdAAAAABAE" width="42"/>
 </div>
 
 ---

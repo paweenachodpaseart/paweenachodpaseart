@@ -50,6 +50,7 @@ The model has an error value of 0.272"
   <img src="https://img.utdstc.com/icon/22a/3bf/22a3bf7ca77afad2a340cd4331c196675522f0b8e5b73baca836d754ce495faf:200" width="42"/>
   <img src="https://funnel.io/hubfs/Looker%20Studio%20png%20logo.png" width="42"/>
   <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" width="120"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="50"/>
 </div>
 
 ---

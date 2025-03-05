@@ -10,8 +10,10 @@ Hello, my name is Paweena Chotpaseart. I am currently a third-year student major
 ### 🎓 University Activities
 - 🎨 Infographic Design Workshop (Sep 4 & 11, 2023)
 - 🤖 AI Chatbot Workshop (Sep 9-10, 2023)
+- 📊 Field Trip to Thipya Insurance Public Company Limited
 - 🎤 Public Speaking & Personality Development (Jan 31, 2024)
 - 🚀 Innovation Challenge: "What is Innovation and How is it Created?" (Feb 3-4, 2024)
+[See more]([mailto:paweenamind07@gmail.com](https://github.com/paweenachodpaseart/University-Activities))
 
 ---
 

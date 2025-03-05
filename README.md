@@ -13,7 +13,7 @@ Hello, my name is Paweena Chotpaseart. I am currently a third-year student major
 - 📊 Field Trip to Thipya Insurance Public Company Limited
 - 🎤 Public Speaking & Personality Development (Jan 31, 2024)
 - 🚀 Innovation Challenge: "What is Innovation and How is it Created?" (Feb 3-4, 2024)
-[See more]([mailto:paweenamind07@gmail.com](https://github.com/paweenachodpaseart/University-Activities))
+- [See more](https://github.com/paweenachodpaseart/University-Activities)
 
 ---
 

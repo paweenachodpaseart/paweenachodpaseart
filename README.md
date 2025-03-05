@@ -7,6 +7,12 @@ Hello, my name is Paweena Chotpaseart. I am currently a third-year student major
 
 🎯 I am eager to gain real-world experience working in teams, focusing on effective communication and coordination, to prepare for a successful career in Data Science.
 
+### 🎓 University Activities
+🎨 Infographic Design Workshop (Sep 4 & 11, 2023)
+🤖 AI Chatbot Workshop (Sep 9-10, 2023)
+🎤 Public Speaking & Personality Development (Jan 31, 2024)
+🚀 Innovation Challenge: "What is Innovation and How is it Created?" (Feb 3-4, 2024)
+
 ---
 
 ## Featured Projects  

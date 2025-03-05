@@ -37,7 +37,8 @@ The model has an error value of 0.272"
 ---
 
 ## 💡 Skills 
-- **Data Analysis** 
+- **Data Analysis**
+- **Data Science**
 - **Big Data** 
 - **Data Visualization**
 - **Data Warehousing** 
